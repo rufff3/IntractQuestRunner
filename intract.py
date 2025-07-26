@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 def load_cookies_from_file(file_path):
-    """Fungsi canggih untuk membaca berbagai format file cookies."""
+    
     try:
         with open(file_path, "r", encoding="utf-8-sig") as file:
             raw_content = file.read()
@@ -39,7 +39,7 @@ def inject_cookies(driver, cookies):
                 except Exception as e2: print(f"⚠️ Gagal menambahkan cookie: {cookie.get('name')} ({e2})")
     print("✅ Cookies berhasil ditambahkan.")
 def setup_driver():
-    """Menyiapkan instance Chrome WebDriver dalam mode headless."""
+
     options = Options()
     options.add_argument("--headless=new")
     options.add_argument("--window-size=1920,1080")
@@ -50,7 +50,7 @@ def setup_driver():
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     return driver
 def safe_click(driver, element):
-    """Langsung menggunakan metode klik JavaScript yang paling andal."""
+    
     try:
         driver.execute_script("arguments[0].click();", element)
     except Exception as e:
