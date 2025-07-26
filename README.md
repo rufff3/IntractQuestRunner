@@ -55,7 +55,7 @@ Script akan otomatis memisahkan blok `[...][...]` menjadi akun yang berbeda, coo
 - `setup_driver`: Mengatur ChromeDriver headless
 - `main`: Fungsi utama loop akun dan quest
 
-✉️ KONTAK
+✉️ PESAN
 ---------
 Script ini dibuat untuk keperluan pribadi atau riset automasi. Gunakan dengan bijak dan jangan melanggar ToS situs.
 
