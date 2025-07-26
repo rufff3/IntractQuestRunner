@@ -1,4 +1,4 @@
-SCRIPT OTOMATISASI VERIFIKASI INTRACT
+# IntractQuestRunner SCRIPT OTOMATISASI VERIFIKASI INTRACT
 
 📌 DESKRIPSI
 ------------
@@ -58,4 +58,4 @@ Script akan otomatis memisahkan blok `[...][...]` menjadi akun yang berbeda, coo
 ✉️ KONTAK
 ---------
 Script ini dibuat untuk keperluan pribadi atau riset automasi. Gunakan dengan bijak dan jangan melanggar ToS situs.
-# IntractQuestRunner
+
