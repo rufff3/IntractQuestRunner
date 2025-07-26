@@ -1,6 +1,4 @@
-==============================================
- README - Script Otomatisasi Verifikasi Intract
-==============================================
+README - Script Otomatisasi Verifikasi Intract
 
 📌 DESKRIPSI
 ------------
