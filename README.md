@@ -1,4 +1,4 @@
-README - Script Otomatisasi Verifikasi Intract
+SCRIPT OTOMATISASI VERIFIKASI INTRACT
 
 📌 DESKRIPSI
 ------------
