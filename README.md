@@ -2,7 +2,7 @@
 
 📌 DESKRIPSI
 ------------
-Script ini digunakan untuk memverifikasi tugas di situs quest.intract.io secara otomatis **hanya untuk kasus ketika API dalam kondisi mati**jika api hidup **silahkan selesaikan tugasnya terlebih dahulu itu akan membuat tugas yang diselesaikan tersebut bisa di verify melalui script**. 
+Script ini digunakan untuk memverifikasi tugas di situs quest.intract.io secara otomatis **hanya untuk kasus ketika API dalam kondisi mati**. dan jika api hidup **silahkan selesaikan tugasnya terlebih dahulu itu akan membuat tugas yang diselesaikan tersebut bisa di verify melalui script**. 
 Script ini bekerja dengan melakukan klik langsung terhadap elemen tombol "Verify", **tidak untuk menyelesaikan tugas kuis (quiz)** karena tidak didukung dalam mode ini.
 
 Fungsi utama:
