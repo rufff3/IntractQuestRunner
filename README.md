@@ -2,7 +2,7 @@
 
 📌 DESKRIPSI
 ------------
-Script ini digunakan untuk memverifikasi tugas di situs quest.intract.io secara otomatis **hanya untuk kasus ketika API dalam kondisi mati**. 
+Script ini digunakan untuk memverifikasi tugas di situs quest.intract.io secara otomatis **hanya untuk kasus ketika API dalam kondisi mati**jika api hidup **silahkan selesaikan tugasnya terlebih dahulu itu akan membuat tugas yang diselesaikan tersebut bisa di verify melalui script**. 
 Script ini bekerja dengan melakukan klik langsung terhadap elemen tombol "Verify", **tidak untuk menyelesaikan tugas kuis (quiz)** karena tidak didukung dalam mode ini.
 
 Fungsi utama:
@@ -43,7 +43,7 @@ Script akan otomatis memisahkan blok `[...][...]` menjadi akun yang berbeda, coo
 
 📌 CATATAN PENTING
 -------------------
-- Script ini hanya dapat digunakan untuk **verifikasi manual via UI**, bukan penyelesaian tugas kuis atau tugas dengan API aktif.
+- Script ini hanya dapat digunakan untuk **verifikasi manual via UI**, bukan penyelesaian tugas kuis. 
 - Pastikan semua cookies valid dan belum kadaluarsa.
 - Jika terjadi error saat klik atau load halaman, script tetap akan melanjutkan ke akun berikutnya.
 
