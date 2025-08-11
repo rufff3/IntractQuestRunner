@@ -21,6 +21,7 @@ Script akan otomatis memisahkan blok `[...][...]` menjadi akun yang berbeda, coo
 
 ⚙️ CARA PENGGUNAAN
 -------------------
+1. Ambil cookies dari ekstensi berikut : https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm 
 1. Siapkan file cookies `cookiesintract.txt` di folder yang sama dengan script.
 2. Jalankan script dengan perintah:
 
@@ -57,5 +58,4 @@ Script akan otomatis memisahkan blok `[...][...]` menjadi akun yang berbeda, coo
 
 ✉️ PESAN
 ---------
-Script ini dibuat untuk keperluan pribadi atau riset automasi. Gunakan dengan bijak dan jangan melanggar ToS situs.
-
+# Script ini dibuat untuk keperluan pribadi dan automasi. disarankan login intract menggunakan discord agar tugas yang ada discord tidak perlu verifi dan tugas bisa diselesaikan
