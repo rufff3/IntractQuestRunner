@@ -58,4 +58,4 @@ Script akan otomatis memisahkan blok `[...][...]` menjadi akun yang berbeda, coo
 
 ✉️ PESAN
 ---------
-# Script ini dibuat untuk keperluan pribadi dan automasi. disarankan login intract menggunakan discord agar tugas yang ada discord tidak perlu verifi dan tugas bisa diselesaikan
+# Script ini dibuat untuk automasi. disarankan login intract menggunakan discord agar tugas yang ada discord tidak perlu verifi dan tugas bisa diselesaikan
